@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/project.png" width="100%">
+  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="imgs/project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
