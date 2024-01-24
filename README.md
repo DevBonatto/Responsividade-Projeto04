@@ -24,7 +24,6 @@ Proposta:
   <img alt="Proposta do projeto" src="imgs/project.png" width="100%">
 </p>
 
-
 ## ✅ Resultado
 - [Acesse o resultado finalizado do Desafio 03, online](https://devbonatto.github.io/Responsividade-Projeto04/)
 
