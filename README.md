@@ -8,10 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="imgs/project.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -21,10 +17,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido com o intuito de apresentar um layout responsivo.
+O intuito desse desafio era replicar um layout responsivo proposto pela RocketSeat
 
-- [Acesse o projeto finalizado, online](https://devbonatto.github.io/Responsividade-Projeto04/)
+Proposta:
+<p align="center">
+  <img alt="Proposta do projeto" src="imgs/project.png" width="100%">
+</p>
+
+
+## ✅ Resultado
+- [Acesse o resultado finalizado do Desafio 03, online](https://devbonatto.github.io/Responsividade-Projeto04/)
+
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ude5TexBQWnrwGbd31IZM3/Explorer-Stage-03-Projeto-02-Copy?fuid=1256335722836990720).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ude5TexBQWnrwGbd31IZM3/Explorer-Stage-03-Projeto-02-Copy?fuid=1256335722836990720)
