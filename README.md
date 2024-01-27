@@ -30,4 +30,4 @@ Proposta:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ude5TexBQWnrwGbd31IZM3/Explorer-Stage-03-Projeto-02-Copy?fuid=1256335722836990720)
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354643188696521/cheesecake-projeto-explorer)
