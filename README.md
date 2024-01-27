@@ -30,4 +30,5 @@ Proposta:
 
 ## 🔖 Layout
 
+
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CJ0jjueUgkOU2mzOqYJwF4/Explorer-Stage-03-Projeto-02-Copy?fuid=1256335722836990720)
